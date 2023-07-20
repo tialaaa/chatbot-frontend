@@ -1,4 +1,10 @@
-# React + Vite
+# My First Chatbot
+
+A one-day, self-guided hackathon project. I chose to create a full-stack AI chatbot using the OpenAI API. See my backend repo here XX.
+
+
+
+#### Created with React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
